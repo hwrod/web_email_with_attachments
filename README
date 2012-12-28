@@ -1,0 +1,5 @@
+Send Email with Attachments from a web form
+
+This script will send an email with message text, along with any files uploaded via web forms attached as email attachment
+
+The default body text is just the contents of all form variables
